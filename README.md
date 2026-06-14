@@ -8,4 +8,4 @@
 
 * Troubleshooting clusters: https://kubernetes.io/docs/tasks/debug/debug-cluster/
 
-* HowTo create Testing Kubernetes Cluster
+* HowTo create Kubernetes Cluster for testing purposes - will be added soon...
