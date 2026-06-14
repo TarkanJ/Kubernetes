@@ -7,3 +7,5 @@
 * Kubectl Quick Reference: https://kubernetes.io/docs/reference/kubectl/quick-reference/
 
 * Troubleshooting clusters: https://kubernetes.io/docs/tasks/debug/debug-cluster/
+
+* HowTo create Testing Kubernetes Cluster
