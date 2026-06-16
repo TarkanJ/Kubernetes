@@ -8,4 +8,6 @@
 
 * Troubleshooting clusters: https://kubernetes.io/docs/tasks/debug/debug-cluster/
 
-* HowTo create Kubernetes Cluster for testing purposes - will be added soon...
+* HowTo create Kubernetes Cluster for testing purposes - will be added soon..
+
+* Virtialization platform for Kubernetes cluster Proxmox or Vagrant.
